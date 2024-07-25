@@ -1,0 +1,13 @@
+<configuration>
+    <files>
+        <module>
+            <file>main.l</file>
+        </module>
+    </files>
+    <project>
+        <executable>weatherapi.exe</executable>
+        <options></options>
+        <namespace>weatherapi</namespace>
+        <template>mt_console</template>
+    </project>
+</configuration>
